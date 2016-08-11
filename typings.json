@@ -1,0 +1,8 @@
+{
+  "name": "active-couch",
+  "dependencies": {},
+  "globalDependencies": {
+    "joi": "registry:dt/joi#9.0.0+20160626220651",
+    "q": "registry:dt/q#0.0.0+20160613154756"
+  }
+}

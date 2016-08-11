@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "../../built/local/tsc.js",
+        "sourceMap": true,
+        "target": "es6"
+    },
+    "exclude": [
+        "node_modules",
+        "wwwroot"
+    ]
+}

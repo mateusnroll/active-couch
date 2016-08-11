@@ -1,0 +1,1 @@
+/// <reference path="./node_modules/typed-nano/lib/nano.d.ts" />
